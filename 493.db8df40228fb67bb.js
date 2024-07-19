@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcountries=self.webpackChunkcountries||[]).push([[493],{2493:(l,a,t)=>{t.r(a),t.d(a,{MainModule:()=>M});var u=t(6814),o=t(9310),E=t(95),s=t(4946);let M=(()=>{class n{static#t=this.\u0275fac=function(_){return new(_||n)};static#n=this.\u0275mod=s.oAB({type:n});static#a=this.\u0275inj=s.cJS({imports:[u.ez,o.Bz,E.u5]})}return n})()}}]);
